@@ -1,0 +1,40 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  background-color: black;
+  color: slateblue;
+}
+
+#flash{
+  width: 50px;
+  height: 50px;
+  border: 1px solid white;
+  display: inline-block;
+  margin-left: 48%;
+}
+
+#ad{
+  margin-left: 30%;
+}
+
+.title{
+  font-family: "arcade normal";
+  color: slateblue;
+  text-align: center;
+}
+
+
+p{
+  text-align: center;
+}
+
+#horloge{
+  height: 40vh;
+  line-height: 40vh;
+  color: white;
+  text-align: center;
+  font-size:60px;
+  font-family: squarefont;
+}
